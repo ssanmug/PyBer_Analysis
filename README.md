@@ -53,3 +53,10 @@ Although rural cities had the fewest number of rides and drivers, they experienc
 
 Figure C displays the apparent difference in total fares by city type. Throughout the entire four-month tracking period, urban cities experienced the highest total fares compared to suburban and rural cities. All three city types experienced peaks in their total fares during the week of February 24, 2019, followed by a decline. Despite all three cities generally following the same trend in peaks and dips until March 2019, urban cities consistently had the highest total fares, irrespective of the trend.
 
+## Summary
+
+### Recommendations for CEO to address disparities
+
+1. PyBer should invest in providing more benefits for new drivers in rural cities to address the disparity in total drivers. By enticing new drivers, the number of total drivers would increase, thus supporting the demand.
+2. PyBer should focus on lowering the average fare per ride to improve accessibility to the ride-sharing services and allow for more riders who may not have been able to afford the high average fares. 
+3. PyBer should investigate the events that coincided with the peaks in total fare in rural cities (refer to Figure C) to identify solutions to maintain the fares at a consistent rate. 

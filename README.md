@@ -19,7 +19,7 @@ Figure A. Summary DataFrame
 
 Figure B. Total Weekly Fares by City Type DataFrame
 
-![total_fares_weekly_df][analysis/total_fares_weekly_df.png]
+![total_fares_weekly_df](analysis/total_fares_weekly_df.png)
 
 Figure C. **Total Fare by City Type** Line Chart
 

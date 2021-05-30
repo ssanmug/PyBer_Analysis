@@ -15,12 +15,12 @@ Please refer to the below figures and visualizations that illustrate the differe
 
 Figure A. Summary DataFrame 
 
-![summary_df](summary_df.png)
+![summary_df](analysis/summary_df.png)
 
 Figure B. Total Weekly Fares by City Type DataFrame
 
-![total_fares_weekly_df][total_fares_weekly_df.png]
+![total_fares_weekly_df][analysis/total_fares_weekly_df.png]
 
 Figure C. **Total Fare by City Type** Line Chart
 
-![PyBer_fare_summary](PyBer_fare_summary.png)
+![PyBer_fare_summary](analysis/PyBer_fare_summary.png)
